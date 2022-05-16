@@ -8,4 +8,4 @@ pandas>=0.19
 gunicorn==19.9.0
 matplotlib==3.2.2
 scipy>=0.15.1
-
+markupsafe==2.0.1
